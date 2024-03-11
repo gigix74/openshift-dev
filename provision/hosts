@@ -1,0 +1,4 @@
+127.0.0.1   localhost localhost.domain.local localhost4 localhost4.domain.local4
+::1         localhost localhost.domain.local localhost6 localhost6.domain.local6
+
+192.168.56.99 openshift.domain.local openshift
